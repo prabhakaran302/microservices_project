@@ -1,0 +1,15 @@
+.idea
+target
+bin
+*.iml
+.project
+.settings
+.DS_Store
+.classpath
+.factorypath
+dump.rdb
+Test.java
+*.log
+temp
+spring-petclinic-microservices
+blog-microservices-master
